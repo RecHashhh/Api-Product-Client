@@ -28,13 +28,22 @@ python app.py
 La API estará disponible en http://localhost:7002/.
 
 ## Endpoints Disponibles:
-GET /products: Obtiene una lista de todos los productos.
-GET /products/<id>: Obtiene un producto específico por su ID.
-POST /product: Crea un nuevo producto.
-PUT /product/<id>: Actualiza un producto existente por su ID.
-DELETE /product/<id>: Elimina un producto existente por su ID.
-POST /clients/bulk: Crea múltiples clientes de una vez.
-POST /products/bulk: Crea múltiples productos de una vez.
+- GET /products: Obtiene una lista de todos los productos.
+- GET /products/<id>: Obtiene un producto específico por su ID.
+- POST /product: Crea un nuevo producto.
+- PUT /product/<id>: Actualiza un producto existente por su ID.
+- DELETE /product/<id>: Elimina un producto existente por su ID.
+- POST /clients/bulk: Crea múltiples clientes de una vez.
+- POST /products/bulk: Crea múltiples productos de una vez.
+
+## Limitación de Tasa
+La aplicación utiliza Flask-Limiter para limitar la tasa de solicitudes y evitar el abuso:
+
+- Límite por defecto: 30 solicitudes por minuto.
+- Límite personalizado:
+- /: 5 solicitudes por minuto.
+- /products: 10 solicitudes por minuto.
+- /products/<id>: 5 solicitudes por minuto.
 
 ## Pruebas
 Para ejecutar las pruebas unitarias, ejecuta:
