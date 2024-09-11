@@ -27,7 +27,7 @@ Para ejecutar la aplicación, usa el siguiente comando:
 python app.py
 La API estará disponible en http://localhost:7002/.
 
-Endpoints Disponibles:
+## Endpoints Disponibles:
 GET /products: Obtiene una lista de todos los productos.
 GET /products/<id>: Obtiene un producto específico por su ID.
 POST /product: Crea un nuevo producto.
@@ -36,11 +36,11 @@ DELETE /product/<id>: Elimina un producto existente por su ID.
 POST /clients/bulk: Crea múltiples clientes de una vez.
 POST /products/bulk: Crea múltiples productos de una vez.
 
-##Pruebas
+## Pruebas
 Para ejecutar las pruebas unitarias, ejecuta:
 python app.py test
 
-##Configuración de Logging
+## Configuración de Logging
 La aplicación utiliza el módulo logging para registrar todas las operaciones. Hay tres tipos de registros:
 
 Consola: Los registros se muestran en la consola.
@@ -49,6 +49,6 @@ Archivo de Registro de Auditoría: Guarda los registros de auditoría en audit.l
 Contribuciones
 Las contribuciones son bienvenidas. Por favor, abre un "issue" o envía un "pull request" para mejoras o correcciones.
 
-Licencia
+## Licencia
 Esta aplicación se distribuye bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
 Este archivo README proporciona una descripción general de la aplicación, instrucciones de instalación, uso de la API, pruebas, y configuración de registros. Puedes personalizarlo según tus necesidades.
