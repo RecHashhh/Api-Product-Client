@@ -1,0 +1,11 @@
+[
+    {"name": "Laptop", "description": "High performance laptop", "price": 1200.00, "quantity": 50},
+    {"name": "Smartphone", "description": "Latest model smartphone", "price": 800.00, "quantity": 100},
+    {"name": "Headphones", "description": "Noise-cancelling headphones", "price": 150.00, "quantity": 200},
+    {"name": "Monitor", "description": "27-inch 4K monitor", "price": 300.00, "quantity": 30},
+    {"name": "Keyboard", "description": "Mechanical keyboard", "price": 100.00, "quantity": 150},
+    {"name": "Mouse", "description": "Wireless mouse", "price": 50.00, "quantity": 250},
+    {"name": "Webcam", "description": "HD webcam", "price": 70.00, "quantity": 80},
+    {"name": "Printer", "description": "Color printer", "price": 200.00, "quantity": 40},
+    {"name": "Router", "description": "High-speed router", "price": 90.00, "quantity": 60}
+]

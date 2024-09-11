@@ -1,0 +1,106 @@
+[2024-09-10 12:25:31,721] INFO in app: Request from 127.0.0.1: POST /product User Agent: Werkzeug/3.0.4 Data: {'description': 'Test Description', 'name': 'Test Product', 'price': 99.99, 'quantity': 10}
+[2024-09-10 12:25:31,783] INFO in app: Request from 127.0.0.1: POST /product User Agent: Werkzeug/3.0.4 Data: {'description': 'Delete Description', 'name': 'Delete Product', 'price': 9.99, 'quantity': 2}
+[2024-09-10 12:25:31,795] INFO in app: Request from 127.0.0.1: DELETE /product/45ebfb55-d945-418a-a591-b809cfa5be87 User Agent: Werkzeug/3.0.4 Data: None
+[2024-09-10 12:25:31,821] INFO in app: Request from 127.0.0.1: POST /product User Agent: Werkzeug/3.0.4 Data: {'description': 'Test Description', 'name': 'Test Product', 'price': 99.99, 'quantity': 10}
+[2024-09-10 12:25:31,838] INFO in app: Request from 127.0.0.1: GET /products User Agent: Werkzeug/3.0.4 Data: None
+[2024-09-10 12:25:31,843] INFO in app: LogInfo: Get products
+[2024-09-10 12:25:31,849] INFO in app: Request from 127.0.0.1: POST /product User Agent: Werkzeug/3.0.4 Data: {'description': 'Update Description', 'name': 'Update Product', 'price': 19.99, 'quantity': 5}
+[2024-09-10 12:25:31,862] INFO in app: Request from 127.0.0.1: PUT /product/11a4bb07-f3e8-48e1-8634-d43235a82663 User Agent: Werkzeug/3.0.4 Data: {'description': 'Updated Description', 'name': 'Updated Product', 'price': 29.99, 'quantity': 8}
+[2024-09-10 12:37:21,440] INFO in app: Request from 127.0.0.1: POST /product User Agent: Werkzeug/3.0.4 Data: {'description': 'Test Description', 'name': 'Test Product', 'price': 99.99, 'quantity': 10}
+[2024-09-10 12:37:21,478] INFO in app: Request from 127.0.0.1: POST /product User Agent: Werkzeug/3.0.4 Data: {'description': 'Delete Description', 'name': 'Delete Product', 'price': 9.99, 'quantity': 2}
+[2024-09-10 12:37:21,496] INFO in app: Request from 127.0.0.1: DELETE /product/9b012271-44dc-4390-89d7-293249969cf4 User Agent: Werkzeug/3.0.4 Data: None
+[2024-09-10 12:37:21,523] INFO in app: Request from 127.0.0.1: POST /product User Agent: Werkzeug/3.0.4 Data: {'description': 'Test Description', 'name': 'Test Product', 'price': 99.99, 'quantity': 10}
+[2024-09-10 12:37:21,538] INFO in app: Request from 127.0.0.1: GET /products User Agent: Werkzeug/3.0.4 Data: None
+[2024-09-10 12:37:21,541] INFO in app: LogInfo: Get products
+[2024-09-10 12:37:21,559] INFO in app: Request from 127.0.0.1: POST /product User Agent: Werkzeug/3.0.4 Data: {'description': 'Update Description', 'name': 'Update Product', 'price': 19.99, 'quantity': 5}
+[2024-09-10 12:37:21,575] INFO in app: Request from 127.0.0.1: PUT /product/b749c258-dd6e-460e-a15a-ca0fee7fbb35 User Agent: Werkzeug/3.0.4 Data: {'description': 'Updated Description', 'name': 'Updated Product', 'price': 29.99, 'quantity': 8}
+[2024-09-10 12:40:06,607] INFO in app: Request from 127.0.0.1: POST /product User Agent: Werkzeug/3.0.4 Data: {'description': 'Test Description', 'name': 'Test Product', 'price': 99.99, 'quantity': 10}
+[2024-09-10 12:40:06,637] INFO in app: Request from 127.0.0.1: POST /product User Agent: Werkzeug/3.0.4 Data: {'description': 'Delete Description', 'name': 'Delete Product', 'price': 9.99, 'quantity': 2}
+[2024-09-10 12:40:06,647] INFO in app: Request from 127.0.0.1: DELETE /product/d75e7bf0-5815-44ad-9fc2-564331523de4 User Agent: Werkzeug/3.0.4 Data: None
+[2024-09-10 12:40:06,674] INFO in app: Request from 127.0.0.1: POST /product User Agent: Werkzeug/3.0.4 Data: {'description': 'Test Description', 'name': 'Test Product', 'price': 99.99, 'quantity': 10}
+[2024-09-10 12:40:06,689] INFO in app: Request from 127.0.0.1: GET /products User Agent: Werkzeug/3.0.4 Data: None
+[2024-09-10 12:40:06,692] INFO in app: LogInfo: Get products
+[2024-09-10 12:40:06,700] INFO in app: Request from 127.0.0.1: POST /product User Agent: Werkzeug/3.0.4 Data: {'description': 'Update Description', 'name': 'Update Product', 'price': 19.99, 'quantity': 5}
+[2024-09-10 12:40:06,715] INFO in app: Request from 127.0.0.1: PUT /product/3e075000-cb62-4aeb-bea1-fff0a2bc0ea5 User Agent: Werkzeug/3.0.4 Data: {'description': 'Updated Description', 'name': 'Updated Product', 'price': 29.99, 'quantity': 8}
+[2024-09-10 12:41:16,949] INFO in app: Request from 127.0.0.1: POST /product User Agent: Werkzeug/3.0.4 Data: {'description': 'Test Description', 'name': 'Test Product', 'price': 99.99, 'quantity': 10}
+[2024-09-10 12:41:16,996] INFO in app: Request from 127.0.0.1: POST /product User Agent: Werkzeug/3.0.4 Data: {'description': 'Delete Description', 'name': 'Delete Product', 'price': 9.99, 'quantity': 2}
+[2024-09-10 12:41:17,018] INFO in app: Request from 127.0.0.1: DELETE /product/34a39144-56f1-4106-8ce0-0ca85534a93e User Agent: Werkzeug/3.0.4 Data: None
+[2024-09-10 12:41:17,057] INFO in app: Request from 127.0.0.1: POST /product User Agent: Werkzeug/3.0.4 Data: {'description': 'Test Description', 'name': 'Test Product', 'price': 99.99, 'quantity': 10}
+[2024-09-10 12:41:17,074] INFO in app: Request from 127.0.0.1: GET /products User Agent: Werkzeug/3.0.4 Data: None
+[2024-09-10 12:41:17,075] INFO in app: LogInfo: Get products
+[2024-09-10 12:41:17,089] INFO in app: Request from 127.0.0.1: POST /product User Agent: Werkzeug/3.0.4 Data: {'description': 'Update Description', 'name': 'Update Product', 'price': 19.99, 'quantity': 5}
+[2024-09-10 12:41:17,101] INFO in app: Request from 127.0.0.1: PUT /product/e654515c-0c87-4546-85c3-8d86a74319e8 User Agent: Werkzeug/3.0.4 Data: {'description': 'Updated Description', 'name': 'Updated Product', 'price': 29.99, 'quantity': 8}
+[2024-09-10 12:45:11,536] INFO in app: Request from 127.0.0.1: POST /product User Agent: Werkzeug/3.0.4 Data: {'description': 'Test Description', 'name': 'Test Product', 'price': 99.99, 'quantity': 10}
+[2024-09-10 12:45:11,571] INFO in app: Request from 127.0.0.1: POST /product User Agent: Werkzeug/3.0.4 Data: {'description': 'Delete Description', 'name': 'Delete Product', 'price': 9.99, 'quantity': 2}
+[2024-09-10 12:45:11,587] INFO in app: Request from 127.0.0.1: DELETE /product/1455ca4b-77f8-405f-b8a9-072037995e30 User Agent: Werkzeug/3.0.4 Data: None
+[2024-09-10 12:45:11,607] INFO in app: Request from 127.0.0.1: POST /product User Agent: Werkzeug/3.0.4 Data: {'description': 'Test Description', 'name': 'Test Product', 'price': 99.99, 'quantity': 10}
+[2024-09-10 12:45:11,631] INFO in app: Request from 127.0.0.1: GET /products User Agent: Werkzeug/3.0.4 Data: None
+[2024-09-10 12:45:11,633] INFO in app: LogInfo: Get products
+[2024-09-10 12:45:11,646] INFO in app: Request from 127.0.0.1: POST /product User Agent: Werkzeug/3.0.4 Data: {'description': 'Update Description', 'name': 'Update Product', 'price': 19.99, 'quantity': 5}
+[2024-09-10 12:45:11,665] INFO in app: Request from 127.0.0.1: PUT /product/7718fa48-ded3-4f17-9516-73900687e720 User Agent: Werkzeug/3.0.4 Data: {'description': 'Updated Description', 'name': 'Updated Product', 'price': 29.99, 'quantity': 8}
+[2024-09-10 12:46:49,763] INFO in app: Request from 127.0.0.1: POST /product User Agent: Werkzeug/3.0.4 Data: {'description': 'Test Description', 'name': 'Test Product', 'price': 99.99, 'quantity': 10}
+[2024-09-10 12:46:49,806] INFO in app: Request from 127.0.0.1: POST /product User Agent: Werkzeug/3.0.4 Data: {'description': 'Delete Description', 'name': 'Delete Product', 'price': 9.99, 'quantity': 2}
+[2024-09-10 12:46:49,818] INFO in app: Request from 127.0.0.1: DELETE /product/18688be4-f639-41ab-9fab-3918adea7765 User Agent: Werkzeug/3.0.4 Data: None
+[2024-09-10 12:46:49,832] INFO in app: Request from 127.0.0.1: POST /product User Agent: Werkzeug/3.0.4 Data: {'description': 'Test Description', 'name': 'Test Product', 'price': 99.99, 'quantity': 10}
+[2024-09-10 12:46:49,870] INFO in app: Request from 127.0.0.1: GET /products User Agent: Werkzeug/3.0.4 Data: None
+[2024-09-10 12:46:49,873] INFO in app: LogInfo: Get products
+[2024-09-10 12:46:49,885] INFO in app: Request from 127.0.0.1: POST /product User Agent: Werkzeug/3.0.4 Data: {'description': 'Update Description', 'name': 'Update Product', 'price': 19.99, 'quantity': 5}
+[2024-09-10 12:46:49,921] INFO in app: Request from 127.0.0.1: PUT /product/01780907-0f37-4623-96bd-ebfa20b492b2 User Agent: Werkzeug/3.0.4 Data: {'description': 'Updated Description', 'name': 'Updated Product', 'price': 29.99, 'quantity': 8}
+[2024-09-10 12:47:23,642] INFO in app: Request from 127.0.0.1: POST /product User Agent: Werkzeug/3.0.4 Data: {'description': 'Test Description', 'name': 'Test Product', 'price': 99.99, 'quantity': 10}
+[2024-09-10 12:47:23,684] INFO in app: Request from 127.0.0.1: POST /product User Agent: Werkzeug/3.0.4 Data: {'description': 'Delete Description', 'name': 'Delete Product', 'price': 9.99, 'quantity': 2}
+[2024-09-10 12:47:23,700] INFO in app: Request from 127.0.0.1: DELETE /product/edecaa22-e733-43bb-aadb-29259fb8ff0b User Agent: Werkzeug/3.0.4 Data: None
+[2024-09-10 12:47:23,738] INFO in app: Request from 127.0.0.1: POST /product User Agent: Werkzeug/3.0.4 Data: {'description': 'Test Description', 'name': 'Test Product', 'price': 99.99, 'quantity': 10}
+[2024-09-10 12:47:23,751] INFO in app: Request from 127.0.0.1: GET /products User Agent: Werkzeug/3.0.4 Data: None
+[2024-09-10 12:47:23,761] INFO in app: LogInfo: Get products
+[2024-09-10 12:47:23,772] INFO in app: Request from 127.0.0.1: POST /product User Agent: Werkzeug/3.0.4 Data: {'description': 'Update Description', 'name': 'Update Product', 'price': 19.99, 'quantity': 5}
+[2024-09-10 12:47:23,792] INFO in app: Request from 127.0.0.1: PUT /product/48455b10-d04d-4f0e-93b8-2d1a2bff5e9c User Agent: Werkzeug/3.0.4 Data: {'description': 'Updated Description', 'name': 'Updated Product', 'price': 29.99, 'quantity': 8}
+[2024-09-10 12:50:38] INFO app.py:143 - Request from 127.0.0.1: POST /product User Agent: Werkzeug/3.0.4 Data: {'description': 'Test Description', 'name': 'Test Product', 'price': 99.99, 'quantity': 10}
+[2024-09-10 12:50:38] INFO app.py:143 - Request from 127.0.0.1: POST /product User Agent: Werkzeug/3.0.4 Data: {'description': 'Delete Description', 'name': 'Delete Product', 'price': 9.99, 'quantity': 2}
+[2024-09-10 12:50:38] INFO app.py:143 - Request from 127.0.0.1: DELETE /product/3f2cbe68-ef98-42fd-ba23-b2ef8d9c3306 User Agent: Werkzeug/3.0.4 Data: None
+[2024-09-10 12:50:38] INFO app.py:143 - Request from 127.0.0.1: POST /product User Agent: Werkzeug/3.0.4 Data: {'description': 'Test Description', 'name': 'Test Product', 'price': 99.99, 'quantity': 10}
+[2024-09-10 12:50:38] INFO app.py:143 - Request from 127.0.0.1: GET /products User Agent: Werkzeug/3.0.4 Data: None
+[2024-09-10 12:50:38] INFO app.py:172 - LogInfo: Get products
+[2024-09-10 12:50:38] INFO app.py:143 - Request from 127.0.0.1: POST /product User Agent: Werkzeug/3.0.4 Data: {'description': 'Update Description', 'name': 'Update Product', 'price': 19.99, 'quantity': 5}
+[2024-09-10 12:50:38] INFO app.py:143 - Request from 127.0.0.1: PUT /product/6f72b4f7-289d-477c-a24f-0605e8b20742 User Agent: Werkzeug/3.0.4 Data: {'description': 'Updated Description', 'name': 'Updated Product', 'price': 29.99, 'quantity': 8}
+[2024-09-10 13:07:51] INFO app.py:143 - Request from 127.0.0.1: POST /product User Agent: Werkzeug/3.0.4 Data: {'description': 'Test Description', 'name': 'Test Product', 'price': 99.99, 'quantity': 10}
+[2024-09-10 13:07:51] INFO app.py:203 - Created product: {'id': '161f0d85-9d02-42b9-b13e-1ff95410686f', 'name': 'Test Product', 'description': 'Test Description', 'price': 99.99, 'quantity': 10}
+[2024-09-10 13:07:51] INFO app.py:143 - Request from 127.0.0.1: POST /product User Agent: Werkzeug/3.0.4 Data: {'description': 'Delete Description', 'name': 'Delete Product', 'price': 9.99, 'quantity': 2}
+[2024-09-10 13:07:51] INFO app.py:203 - Created product: {'id': '641d4ab9-0719-4193-8106-7e4e78525ea4', 'name': 'Delete Product', 'description': 'Delete Description', 'price': 9.99, 'quantity': 2}
+[2024-09-10 13:07:51] INFO app.py:143 - Request from 127.0.0.1: DELETE /product/641d4ab9-0719-4193-8106-7e4e78525ea4 User Agent: Werkzeug/3.0.4 Data: None
+[2024-09-10 13:07:51] INFO app.py:294 - Deleted product: {'id': '641d4ab9-0719-4193-8106-7e4e78525ea4', 'name': 'Delete Product', 'description': 'Delete Description', 'price': 9.99, 'quantity': 2}
+[2024-09-10 13:07:51] INFO app.py:143 - Request from 127.0.0.1: POST /product User Agent: Werkzeug/3.0.4 Data: {'description': 'Test Description', 'name': 'Test Product', 'price': 99.99, 'quantity': 10}
+[2024-09-10 13:07:51] INFO app.py:203 - Created product: {'id': '79f558d9-9b12-4925-a3fd-ec455fe032ee', 'name': 'Test Product', 'description': 'Test Description', 'price': 99.99, 'quantity': 10}
+[2024-09-10 13:07:51] INFO app.py:143 - Request from 127.0.0.1: GET /products User Agent: Werkzeug/3.0.4 Data: None
+[2024-09-10 13:07:51] INFO app.py:172 - LogInfo: Get products
+[2024-09-10 13:07:51] INFO app.py:143 - Request from 127.0.0.1: POST /product User Agent: Werkzeug/3.0.4 Data: {'description': 'Update Description', 'name': 'Update Product', 'price': 19.99, 'quantity': 5}
+[2024-09-10 13:07:51] INFO app.py:203 - Created product: {'id': '109968dc-9ae6-4b82-abdf-81d79b49db7b', 'name': 'Update Product', 'description': 'Update Description', 'price': 19.99, 'quantity': 5}
+[2024-09-10 13:07:51] INFO app.py:143 - Request from 127.0.0.1: PUT /product/109968dc-9ae6-4b82-abdf-81d79b49db7b User Agent: Werkzeug/3.0.4 Data: {'description': 'Updated Description', 'name': 'Updated Product', 'price': 29.99, 'quantity': 8}
+[2024-09-10 13:07:51] INFO app.py:280 - Updated product: {'id': '109968dc-9ae6-4b82-abdf-81d79b49db7b', 'name': 'Updated Product', 'description': 'Updated Description', 'price': 29.99, 'quantity': 8}
+[2024-09-11 15:39:29] ERROR app.py:838 - Exception on /product/d3f05c29-dced-49c2-a146-6eb823a4ea7d [DELETE]
+Traceback (most recent call last):
+  File "C:\Users\pcsec\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\pcsec\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\pcsec\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\pcsec\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "C:\Users\pcsec\Desktop\SEGURIDAD DE SOFTWARE\apidbwill\product-service\src\app.py", line 245, in delete_product
+    session = Session()
+NameError: name 'Session' is not defined
+[2024-09-11 15:39:30] INFO app.py:144 - LogInfo: Get products
+[2024-09-11 15:39:30] INFO app.py:172 - Created product: {'id': '752ec6c4-8b21-459a-8ce4-15ac222865f8', 'name': 'Test Product', 'description': 'This is a test product.', 'price': 19.99, 'quantity': 10}
+[2024-09-11 15:39:30] ERROR app.py:838 - Exception on /product/7630b5d2-0efc-43b9-9eb5-48b1342ce6ef [PUT]
+Traceback (most recent call last):
+  File "C:\Users\pcsec\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\pcsec\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\pcsec\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\pcsec\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "C:\Users\pcsec\Desktop\SEGURIDAD DE SOFTWARE\apidbwill\product-service\src\app.py", line 225, in put_product
+    session = Session()
+NameError: name 'Session' is not defined
